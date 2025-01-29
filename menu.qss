@@ -30,7 +30,7 @@ QMenu::icon:checked {
 }
 QMenu::icon:checked:selected {
     background-color : rgb(236,236,237);
-    background-image: url(:/space_selected.png);
+    background-image: url(:/wndimg/space_selected.png);
 }
 QMenu::separator {
     height: 2px;
