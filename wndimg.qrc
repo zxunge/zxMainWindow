@@ -5,6 +5,7 @@
         <file>lib/icon_close.png</file>
         <file>lib/icon_minus.png</file>
         <file>icon_normal.png</file>
+        <file>space_selected.png</file>
     </qresource>
     <qresource prefix="/qss">
         <file>menu.qss</file>
